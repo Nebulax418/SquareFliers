@@ -1,0 +1,5 @@
+1. To play the game you need to go ahead and download java jdk 1.8.0_241 and java jre 1.8.0_241 
+
+2. just select the SquareFliers.jar game and go ahead and right click on the .jar file and select properties
+form the drop down menu and click on the "CHANGE" button and go ahead and select JAVA PLATFORM TM SE BINARY to run
+to run the game and enjoy!!!
